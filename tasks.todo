@@ -1,0 +1,7 @@
+Relationships:
+
+1. One to one
+2. One to many
+3. Many to many
+4. Has many through
+5. Polymorphic relations
