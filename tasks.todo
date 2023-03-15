@@ -2,6 +2,7 @@ Relationships:
 
 1. One to one (done)
 2. One to many (done)
-3. Many to many
-4. Has many through
+3. Many to many (done)
+4. Has many through (done)
 5. Polymorphic relations
+6. Many to many polymorphic relations
